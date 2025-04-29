@@ -1,0 +1,2 @@
+初始化完成：建立 restart.sh + 123.py + upgrade_log.txt，支援一鍵開殺模式
+日期：2025-04-29
